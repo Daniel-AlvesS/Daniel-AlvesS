@@ -1,6 +1,5 @@
 
-
-# Daniel Barbosa Alves  👋
+# Daniel Barbosa Alves  
 
 ##  Sobre mim
 
