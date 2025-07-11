@@ -3,7 +3,7 @@
 
 ##  Sobre mim
 
-Graduando em Meteorologia pela Universidade de São Paulo, atualmente no último semestre do curso e na quarta iniciação científica, sendo bolsista pelo CNPq. Ao longo dessa trajetória, dediquei-me principalmente ao estudo dos processos radiativos na atmosfera e seus impactos na sociedade. Também possuo familiaridade com previsões do tempo e climatologia. Com isso, desenvolvi conhecimentos em programação (Python e Bash), análise de dados, Excel e estatística.
+Meteorologista pela Universidade de São Paulo. Ao longo dessa trajetória, dediquei-me principalmente ao estudo dos processos radiativos na atmosfera e seus impactos na sociedade. Também possuo familiaridade com previsões do tempo e climatologia. Com isso, desenvolvi conhecimentos em programação (Python e Bash), análise de dados, Excel e estatística.
 ##  Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danielbarbosaalves@usp.br)
